@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.authors  = ['Peter Martinez']
   gem.email    = ['Peter@Accredify.com']
   gem.summary  = 'Accredify OAuth2 Strategy for OmniAuth'
-  gem.homepage = 'https://api.accredify.com'
+  gem.homepage = 'https://github.com/PeterMartinez/omniauth-accredify.git'
   gem.license  = 'MIT'
   gem.description   = %q{OmniAuth strategy for Accredify.}
   gem.summary       = %q{OmniAuth strategy for Accredify.}
